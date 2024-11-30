@@ -44,6 +44,7 @@ namespace Programming_Puzzles_2__PP2_
 
         private void btnMenu_Click(object sender, EventArgs e)
         {
+            //Adding some dummy comments
             this.Hide();
             Menu menu = new Menu();
             menu.Show();
