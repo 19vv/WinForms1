@@ -48,6 +48,7 @@ namespace Programming_Puzzles_2__PP2_
             this.Hide();
             Menu menu = new Menu();
             menu.Show();
+            // my second change
         }
 
         private void txtAverage_TextChanged(object sender, EventArgs e)
