@@ -13,7 +13,7 @@ namespace Programming_Puzzles_2__PP2_
         /// </summary>
         [STAThread]
         static void Main()
-        {
+        cal {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new CC());
